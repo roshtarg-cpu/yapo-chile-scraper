@@ -58,3 +58,4 @@ Use via **Apify MCP** integration with Claude, ChatGPT, and other AI assistants 
 ---
 
 **Note:** Respects Yapo.cl's terms of service. Use responsibly and in compliance with local regulations.
+ 
