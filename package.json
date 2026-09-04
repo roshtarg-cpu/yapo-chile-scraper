@@ -1,0 +1,14 @@
+{
+  "name": "yapo-chile-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Yapo.cl Chile classifieds scraper",
+  "main": "main.js",
+  "dependencies": {
+    "apify": "^3.0.0",
+    "crawlee": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}

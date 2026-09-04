@@ -1,0 +1,13 @@
+{
+  "actorOutputSchemaVersion": 1,
+  "title": "Yapo.cl Scraper Output",
+  "description": "Classified listings from Yapo.cl Chile",
+  "type": "object",
+  "properties": {
+    "results": {
+      "type": "string",
+      "title": "Listings",
+      "template": "{{links.apiDefaultDatasetUrl}}/items?view=overview"
+    }
+  }
+}
